@@ -1,0 +1,17 @@
+# Framework para el servidor backend
+fastapi
+uvicorn
+
+# Interfaz grafica
+streamlit
+
+# Solicitudes HTTP y variables de entorno
+requests
+python-dotenv
+
+# Proveedores de modelos LLM
+google-genai
+groq
+
+# Validacion de datos
+pydantic
